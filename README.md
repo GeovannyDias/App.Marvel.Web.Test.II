@@ -45,3 +45,4 @@ The link displays documentation all endpoints, parameters and error messages ava
 
 ## Result
 
+![image](https://user-images.githubusercontent.com/23192401/160305856-a2d15c63-eea7-4ff9-8d77-50ae1bedd7f2.png)
